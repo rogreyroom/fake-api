@@ -1,0 +1,19 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "",
+      "date-time": "",
+      "description": "",
+      "image": "",
+      "type": [
+        { "sport": "Sport" },
+        { "culture": "Culture" },
+        { "health": "Health" }
+      ],
+      "phone": "",
+      "email": "",
+      "place": ""
+    },
+  ]
+}
