@@ -1,19 +1,157 @@
 {
-  "events": [
-    {
-      "id": 1,
-      "title": "",
-      "date-time": "",
-      "description": "",
-      "image": "",
-      "type": [
-        { "sport": "Sport" },
-        { "culture": "Culture" },
-        { "health": "Health" }
-      ],
-      "phone": "",
-      "email": "",
-      "place": ""
-    },
-  ]
+	"events": [
+		{
+			"id": 1,
+			"title": "Krokami Wyobraźni",
+			"description": "Malarstwo Beaty Granek",
+			"datetime": "10-10-2019T21:00",
+			"image": "https://unsplash.it/600",
+			"type": "Kultura",
+			"contact": {
+				"phone": "22423521522",
+				"email": "kroki@wyobraznia.pl"
+			},
+			"address": {
+				"street": "Czekoladowa 12",
+				"city": "Kraków",
+				"place": "Dom kultury"
+			}
+		},
+		{
+			"id": 2,
+			"title": "Zdrowa ja",
+			"description": "Pogawędka o medycynie naturalnej",
+			"datetime": "02-11-2019T10:00",
+			"image": "https://unsplash.it/600",
+			"type": "Zdrowie",
+			"contact": {
+				"phone": "22873521522",
+				"email": "medycyna@naturalna.pl"
+			},
+			"address": {
+				"street": "Apteczna 122",
+				"city": "Poznań",
+				"place": "Szpital Rejonowy"
+			}
+		},
+		{
+			"id": 3,
+			"title": "Mecz piłkarski",
+			"description": "Mecz finałowy o puchar Biedronki",
+			"datetime": "10-12-2019T18:00",
+			"image": "https://unsplash.it/600",
+			"type": "Sport",
+			"contact": {
+				"phone": "22423521578",
+				"email": "gol@stadion.pl"
+			},
+			"address": {
+				"street": "Sportowa 1",
+				"city": "Warszawka",
+				"place": "Stadion miejski"
+			}
+		},
+		{
+			"id": 4,
+			"title": "Krokami Wyobraźni",
+			"description": "Malarstwo Beaty Granek",
+			"datetime": "10-10-2019T21:00",
+			"image": "https://unsplash.it/600",
+			"type": "Kultura",
+			"contact": {
+				"phone": "22423521522",
+				"email": "kroki@wyobraznia.pl"
+			},
+			"address": {
+				"street": "Czekoladowa 12",
+				"city": "Kraków",
+				"place": "Dom kultury"
+			}
+		},
+		{
+			"id": 5,
+			"title": "Zdrowa ja",
+			"description": "Pogawędka o medycynie naturalnej",
+			"datetime": "02-11-2019T10:00",
+			"image": "https://unsplash.it/600",
+			"type": "Zdrowie",
+			"contact": {
+				"phone": "22873521522",
+				"email": "medycyna@naturalna.pl"
+			},
+			"address": {
+				"street": "Apteczna 122",
+				"city": "Poznań",
+				"place": "Szpital Rejonowy"
+			}
+		},
+		{
+			"id": 6,
+			"title": "Mecz piłkarski",
+			"description": "Mecz finałowy o puchar Biedronki",
+			"datetime": "10-12-2019T18:00",
+			"image": "https://unsplash.it/600",
+			"type": "Sport",
+			"contact": {
+				"phone": "22423521578",
+				"email": "gol@stadion.pl"
+			},
+			"address": {
+				"street": "Sportowa 1",
+				"city": "Warszawka",
+				"place": "Stadion miejski"
+			}
+		},
+		{
+			"id": 7,
+			"title": "Krokami Wyobraźni",
+			"description": "Malarstwo Beaty Granek",
+			"datetime": "10-10-2019T21:00",
+			"image": "https://unsplash.it/600",
+			"type": "Kultura",
+			"contact": {
+				"phone": "22423521522",
+				"email": "kroki@wyobraznia.pl"
+			},
+			"address": {
+				"street": "Czekoladowa 12",
+				"city": "Kraków",
+				"place": "Dom kultury"
+			}
+		},
+		{
+			"id": 8,
+			"title": "Zdrowa ja",
+			"description": "Pogawędka o medycynie naturalnej",
+			"datetime": "02-11-2019T10:00",
+			"image": "https://unsplash.it/600",
+			"type": "Zdrowie",
+			"contact": {
+				"phone": "22873521522",
+				"email": "medycyna@naturalna.pl"
+			},
+			"address": {
+				"street": "Apteczna 122",
+				"city": "Poznań",
+				"place": "Szpital Rejonowy"
+			}
+		},
+		{
+			"id": 9,
+			"title": "Mecz piłkarski",
+			"description": "Mecz finałowy o puchar Biedronki",
+			"datetime": "10-12-2019T18:00",
+			"image": "https://unsplash.it/600",
+			"type": "Sport",
+			"contact": {
+				"phone": "22423521578",
+				"email": "gol@stadion.pl"
+			},
+			"address": {
+				"street": "Sportowa 1",
+				"city": "Warszawka",
+				"place": "Stadion miejski"
+			}
+		}
+	]
 }
